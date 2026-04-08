@@ -8,6 +8,8 @@
         "dev": "node --watch server.js"
     },
     "dependencies": {
-        "express": "^4.22.1"
+        "cors": "^2.8.6",
+        "express": "^4.22.1",
+        "morgan": "^1.10.1"
     }
 }
